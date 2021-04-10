@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map Styles</string>
+    <string name="title_activity_maps">Map Styles</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="normal">Normal</string>
+</resources>
